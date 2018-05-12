@@ -1,0 +1,35 @@
+_repo: In-a-Mysterious-Way_37515
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: McFall, J. V.
+    gutenberg_agent_id: '6904'
+    url: http://www.gutenberg.org/2009/agents/6904
+covers:
+- cover_type: archival
+  image_path: 37515-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Warner, Anne
+    aliases:
+    - French, Anna Richmond Warner
+    - French, Anne Richmond Warner
+    - French, Anne Warner
+    birthdate: 1869
+    deathdate: 1913
+    gutenberg_agent_id: '6279'
+    url: http://www.gutenberg.org/2009/agents/6279
+description: ''
+gutenberg_issued: '2011-09-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37515'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Fiction'
+title: In a Mysterious Way
+url: http://www.gutenberg.org/ebooks/37515
